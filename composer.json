@@ -1,0 +1,6 @@
+{
+  "name": "drupal/comscore_direct",
+  "type": "drupal-module",
+  "description": "Comscore direct",
+  "license": "GPL-2.0+",
+}
